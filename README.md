@@ -28,8 +28,6 @@ Full-stack developer building Discord bots, Android apps, and self-hosted infras
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="46" height="46" title="Python" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="46" height="46" title="Dart" alt="Dart"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="46" height="46" title="TypeScript" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="46" height="46" title="Rust" alt="Rust"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="46" height="46" title="JavaScript" alt="JavaScript"/>
 
 ### Frameworks & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="46" height="46" title="Flutter" alt="Flutter"/>
@@ -39,7 +37,7 @@ Full-stack developer building Discord bots, Android apps, and self-hosted infras
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="46" height="46" title="Git" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="46" height="46" title="Flask" alt="Flask"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="46" height="46" title="SQLite" alt="SQLite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="46" height="46" title="Nginx" alt="Nginx"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="46" height="46" title="Android" alt="Android"/>
 
 </div>
 
