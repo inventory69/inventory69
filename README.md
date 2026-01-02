@@ -1,10 +1,12 @@
 <div align="center">
-  
+
 <!-- Terminal Window Header -->
 <img src="https://raw.githubusercontent.com/inventory69/inventory69/main/assets/header.svg" width="100%" alt="Terminal Header"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=78C2AD&background=1E1E2E00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=inventory%40github%3A~%24+whoami;System+Developer+%26+DevOps+Engineer;Building+self-hosted+infrastructure;Python+•+Flutter+•+Docker+•+Linux" alt="Typing SVG" />
+<a href="https://github.com/inventory69">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=78C2AD&center=true&vCenter=true&width=600&height=80&lines=Full-Stack+Developer;System+Administrator;Building+self-hosted+infrastructure;Python+%E2%80%A2+Flutter+%E2%80%A2+Docker+%E2%80%A2+Linux" alt="Typing SVG" />
+</a>
 
 <br/>
 
