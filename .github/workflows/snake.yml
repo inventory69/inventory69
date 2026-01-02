@@ -17,12 +17,18 @@ jobs:
       
       - name: Generate snake animation
         uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: inventory69
           outputs: |
-            metrics/contribution-snake.svg
-            metrics/contribution-snake-dark.svg?palette=github-dark
-            metrics/contribution-snake-custom.svg?color_snake=#78c2ad&color_dots=#1e1e2e,#26283e,#375a7f,#584966,#78c2ad
+            dist/contribution-snake.svg
+            dist/contribution-snake-dark.svg?palette=github-dark
+            dist/contribution-snake-custom.svg?color_snake=#78c2ad&color_dots=#1e1e2e,#26283e,#375a7f,#584966,#78c2ad
+      
+      - name: Copy snake files to metrics folder
+        run: |
+          mkdir -p metrics
+          cp dist/*.svg metrics/
       
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
