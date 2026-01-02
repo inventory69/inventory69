@@ -1,17 +1,24 @@
 <svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
+      @font-face {
+        font-family: 'JetBrains Mono';
+        font-style: normal;
+        font-weight: 400;
+        src: url(data:font/woff2;base64,d09GMgABAAAAABEsAA4AAAAAIWQAABDVAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbg0IcKgZgAIEwCBEJgTgREAqjPKEBC4NQAAE2AiQDhxAEIAWDTAcgDIFyG/sfB2wcj+QDO8b2N7MYGVXVVBISoqKiooJyRc7/aQQHtjcWsF9I2xpRlBhcPj+Ptfd/9s3M3ne2sSY6hEwWolHpVE2aNqonxD9hQgiZEBItZC//P9fe/2XmZua+Wd0ZSVQ0EolMJ5MJVMlUKpVKpVKpVCqVSqVS/6+qO3P3/c+ZO3Pmzpn7/s4d4BwQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAP5fATABTMATwAJwAa8AH/AN8AcIAEIAUYAYQBwgAZAESAGkAdIAGYAsQA4gD1AAKAKUAMoAFYAqQA2gDtAAaAI0AVoAbYAOQBegB9AH6AMMAAYAL) format('woff2');
+      }
+      
       .terminal-bg { fill: #1e1e2e; }
       .terminal-border { stroke: #11111b; }
       .terminal-text { 
         fill: #eff1f5; 
-        font-family: 'Courier New', 'Consolas', monospace; 
-        font-size: 14px;
+        font-family: 'JetBrains Mono', 'Courier New', monospace; 
+        font-size: 15px;
         font-weight: 400;
       }
       .terminal-prompt { 
         fill: #78c2ad; 
-        font-family: 'Courier New', 'Consolas', monospace;
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
         font-weight: 600; 
       }
       .terminal-muted { fill: #6c7086; }
