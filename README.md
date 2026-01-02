@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Terminal Window Header -->
-<img src="./assets/header.svg" width="100%" alt="Terminal Header"/>
+<img src="https://raw.githubusercontent.com/inventory69/inventory69/main/assets/header.svg" width="100%" alt="Terminal Header"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=78C2AD&background=1E1E2E00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=inventory%40github%3A~%24+whoami;System+Developer+%26+DevOps+Engineer;Building+self-hosted+infrastructure;Python+•+Flutter+•+Docker+•+Linux" alt="Typing SVG" />
@@ -126,15 +126,15 @@ Image gallery for personal photo collections.
 
 <!-- Contribution Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./metrics/contribution-snake-custom.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./metrics/contribution-snake-custom.svg">
-  <img alt="GitHub Contribution Snake" src="./metrics/contribution-snake-custom.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inventory69/inventory69/main/metrics/contribution-snake-custom.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inventory69/inventory69/main/metrics/contribution-snake-custom.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/inventory69/inventory69/main/metrics/contribution-snake-custom.svg">
 </picture>
 
 <br/><br/>
 
 <!-- GitHub Stats -->
-<img src="./metrics/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+<img src="https://raw.githubusercontent.com/inventory69/inventory69/main/metrics/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 </div>
 
@@ -167,7 +167,7 @@ Image gallery for personal photo collections.
 <div align="center">
 
 <!-- Footer -->
-<img src="./assets/footer.svg" width="100%" alt="Terminal Footer"/>
+<img src="https://raw.githubusercontent.com/inventory69/inventory69/main/assets/footer.svg" width="100%" alt="Terminal Footer"/>
 
 <br/>
 
