@@ -82,5 +82,19 @@ Full-stack developer building Discord bots, Android apps, and self-hosted infras
 
 </div>
 
-</div>
+---
 
+<div align="center">
+
+<!-- Footer -->
+<img src="https://raw.githubusercontent.com/inventory69/inventory69/main/assets/footer.svg" width="100%" alt="Terminal Footer"/>
+
+<br/>
+
+**inventory@github:~$** Made with 🌌 and lots of ☕
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=inventory69&color=78c2ad&style=flat-square&label=Profile+Views)
+
+</div>
