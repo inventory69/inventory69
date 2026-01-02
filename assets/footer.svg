@@ -1,13 +1,11 @@
 <svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&amp;display=swap');
-      
       .terminal-bg { fill: #1e1e2e; }
       .terminal-border { stroke: #11111b; }
       .terminal-text { 
         fill: #eff1f5; 
-        font-family: 'JetBrains Mono', monospace; 
+        font-family: 'Courier New', 'Consolas', monospace; 
         font-size: 12px;
       }
       .terminal-prompt { fill: #78c2ad; font-weight: 600; }
