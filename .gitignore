@@ -1,7 +1,3 @@
-# Generated metrics and assets
-metrics/
-*.svg
-
 # Temporary files
 .DS_Store
 *.log
