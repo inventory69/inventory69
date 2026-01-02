@@ -54,30 +54,17 @@ Full-stack developer building Discord bots, Android apps, and self-hosted infras
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inventory69/inventory69/main/metrics/contribution-snake-custom.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inventory69/inventory69/main/metrics/contribution-snake-custom.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/inventory69/inventory69/main/metrics/contribution-snake-custom.svg">
-</picture>
-
-<br/><br/>
-
-<!-- GitHub Stats -->
-<img src="https://raw.githubusercontent.com/inventory69/inventory69/main/metrics/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-
-</div>
-
 ---
 
 ## 📫 Contact
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=inventory69&color=78c2ad&style=flat-square&label=Profile+Views)
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-dettmer.dev-78c2ad?style=for-the-badge&logo=astro&logoColor=white)](https://dettmer.dev)
+[![Email](https://img.shields.io/badge/Email-admin@dettmer.dev-375a7f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@dettmer.dev)
+[![Discord](https://img.shields.io/badge/Discord-Community-584966?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YQBbBmCD)
+
+</div>
 
 </div>
 

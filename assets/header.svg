@@ -1,24 +1,17 @@
 <svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      @font-face {
-        font-family: 'JetBrains Mono';
-        font-style: normal;
-        font-weight: 400;
-        src: url(data:font/woff2;base64,d09GMgABAAAAABEsAA4AAAAAIWQAABDVAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbg0IcKgZgAIEwCBEJgTgREAqjPKEBC4NQAAE2AiQDhxAEIAWDTAcgDIFyG/sfB2wcj+QDO8b2N7MYGVXVVBISoqKiooJyRc7/aQQHtjcWsF9I2xpRlBhcPj+Ptfd/9s3M3ne2sSY6hEwWolHpVE2aNqonxD9hQgiZEBItZC//P9fe/2XmZua+Wd0ZSVQ0EolMJ5MJVMlUKpVKpVKpVCqVSqVS/6+qO3P3/c+ZO3Pmzpn7/s4d4BwQgAAEIAABCEAAAhCAAAQgAAEIQAACEIAABCAAAQhAAP5fATABTMATwAJwAa8AH/AN8AcIAEIAUYAYQBwgAZAESAGkAdIAGYAsQA4gD1AAKAKUAMoAFYAqQA2gDtAAaAI0AVoAbYAOQBegB9AH6AMMAAYAL) format('woff2');
-      }
-      
       .terminal-bg { fill: #1e1e2e; }
       .terminal-border { stroke: #11111b; }
       .terminal-text { 
         fill: #eff1f5; 
-        font-family: 'JetBrains Mono', 'Courier New', monospace; 
-        font-size: 15px;
+        font-family: 'Courier New', 'Consolas', 'Monaco', monospace; 
+        font-size: 14px;
         font-weight: 400;
       }
       .terminal-prompt { 
         fill: #78c2ad; 
-        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-family: 'Courier New', 'Consolas', 'Monaco', monospace;
         font-weight: 600; 
       }
       .terminal-muted { fill: #6c7086; }
@@ -46,20 +39,15 @@
   <circle class="traffic-maximize" cx="60" cy="25" r="6"/>
   
   <!-- Window Title -->
-  <text class="terminal-text" x="400" y="30" text-anchor="middle">
+  <text class="terminal-text" x="400" y="28" text-anchor="middle" font-size="13">
     inventory@github:~
   </text>
   
-  <!-- Window Controls -->
-  <text class="terminal-muted" x="780" y="30" text-anchor="end" font-size="14">
-    [_][□][×]
-  </text>
-  
   <!-- Separator Line -->
-  <line x1="10" y1="45" x2="790" y2="45" stroke="#11111b" stroke-width="1"/>
+  <line x1="10" y1="42" x2="790" y2="42" stroke="#11111b" stroke-width="1"/>
   
   <!-- Prompt Line -->
-  <text class="terminal-prompt" x="20" y="65" font-size="16">inventory@github</text>
-  <text class="terminal-text" x="160" y="65" font-size="16">:~$</text>
-  <text class="terminal-muted cursor" x="195" y="65" font-size="16">▋</text>
+  <text class="terminal-prompt" x="20" y="62" font-size="14">inventory@github</text>
+  <text class="terminal-text" x="150" y="62" font-size="14">:~$</text>
+  <text class="terminal-muted cursor" x="180" y="62" font-size="14">▋</text>
 </svg>
