@@ -16,6 +16,7 @@ If you are an app developer, do not sign up for the early access program, perfor
 
 </br>
 
+<!-- WIDGET-LINKS-START -->
 <div align="center">
   <a href="https://dettmer.dev">
     <img src="terminal.svg" alt="Terminal Widget" width="800"/>
@@ -25,3 +26,4 @@ If you are an app developer, do not sign up for the early access program, perfor
   &nbsp;·&nbsp;
   <a href="mailto:admin@dettmer.dev">✉ Email</a>
 </div>
+<!-- WIDGET-LINKS-END -->
