@@ -1,3 +1,17 @@
+<!-- WIDGET-LINKS-START -->
+<div align="center">
+  <a href="https://dettmer.dev">
+    <img src="terminal.svg" alt="Terminal Widget" width="800"/>
+  </a>
+  <br/>
+  <a href="https://dettmer.dev">↗ dettmer.dev</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:admin@dettmer.dev">✉ Email</a>
+</div>
+<!-- WIDGET-LINKS-END -->
+
+</br>
+
 ## [KeepAndroidOpen](https://keepandroidopen.org/)
 <a href="https://keepandroidopen.org/">
     <img src="https://github.com/keepandroidopen/keepandroidopen.github.io/blob/main/public/img/altered-deal.png" alt="KeepAndroidOpen" align="left" float="left" width="206"/>
@@ -13,17 +27,3 @@ If you are an app developer, do not sign up for the early access program, perfor
 </br>
 
 ## **Discourage fellow app developers and organizations from signing up to the program. Use community forums, social media, and blog posts to spread the message.**
-
-</br>
-
-<!-- WIDGET-LINKS-START -->
-<div align="center">
-  <a href="https://dettmer.dev">
-    <img src="terminal.svg" alt="Terminal Widget" width="800"/>
-  </a>
-  <br/>
-  <a href="https://dettmer.dev">↗ dettmer.dev</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:admin@dettmer.dev">✉ Email</a>
-</div>
-<!-- WIDGET-LINKS-END -->
