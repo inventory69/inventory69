@@ -3,10 +3,6 @@
   <a href="https://dettmer.dev">
     <img src="terminal.svg" alt="Terminal Widget" width="800"/>
   </a>
-  <br/>
-  <a href="https://dettmer.dev">↗ dettmer.dev</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:admin@dettmer.dev">✉ Email</a>
 </div>
 <!-- WIDGET-LINKS-END -->
 
